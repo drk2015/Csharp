@@ -1,0 +1,6 @@
+C:\Users\usre\Desktop\C#_\edx\Module1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\usre\Desktop\C#_\edx\Module1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\usre\Desktop\C#_\edx\Module1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\usre\Desktop\C#_\edx\Module1\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\usre\Desktop\C#_\edx\Module1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\usre\Desktop\C#_\edx\Module1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

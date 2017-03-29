@@ -1,0 +1,6 @@
+C:\Users\usre\Desktop\C#_\edx\Module3\Module3Assignment\Module3Assignment\bin\Debug\Module3Assignment.exe.config
+C:\Users\usre\Desktop\C#_\edx\Module3\Module3Assignment\Module3Assignment\obj\Debug\Module3Assignment.csprojResolveAssemblyReference.cache
+C:\Users\usre\Desktop\C#_\edx\Module3\Module3Assignment\Module3Assignment\bin\Debug\Module3Assignment.exe
+C:\Users\usre\Desktop\C#_\edx\Module3\Module3Assignment\Module3Assignment\bin\Debug\Module3Assignment.pdb
+C:\Users\usre\Desktop\C#_\edx\Module3\Module3Assignment\Module3Assignment\obj\Debug\Module3Assignment.exe
+C:\Users\usre\Desktop\C#_\edx\Module3\Module3Assignment\Module3Assignment\obj\Debug\Module3Assignment.pdb

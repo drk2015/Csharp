@@ -1,0 +1,12 @@
+C:\Users\usre\Desktop\C#_\edx\Module4\Modeule5\Modeule5\bin\Debug\Modeule5.exe.config
+C:\Users\usre\Desktop\C#_\edx\Modeule5\Modeule5\bin\Debug\Modeule5.exe.config
+C:\Users\usre\Desktop\C#_\edx\Modeule5\Modeule5\bin\Debug\Modeule5.exe
+C:\Users\usre\Desktop\C#_\edx\Modeule5\Modeule5\bin\Debug\Modeule5.pdb
+C:\Users\usre\Desktop\C#_\edx\Modeule5\Modeule5\bin\Debug\Modeule5.exe.CodeAnalysisLog.xml
+C:\Users\usre\Desktop\C#_\edx\Modeule5\Modeule5\bin\Debug\Modeule5.exe.lastcodeanalysissucceeded
+C:\Users\usre\Desktop\C#_\edx\Modeule5\Modeule5\obj\Debug\Modeule5.csprojResolveAssemblyReference.cache
+C:\Users\usre\Desktop\C#_\edx\Modeule5\Modeule5\obj\Debug\Modeule5.exe
+C:\Users\usre\Desktop\C#_\edx\Modeule5\Modeule5\obj\Debug\Modeule5.pdb
+C:\Users\usre\Desktop\C#_\edx\Module5\Modeule5\bin\Debug\Modeule5.exe.config
+C:\Users\usre\Desktop\C#_\edx\Module5\Modeule5\obj\Debug\Modeule5.exe
+C:\Users\usre\Desktop\C#_\edx\Module5\Modeule5\obj\Debug\Modeule5.pdb

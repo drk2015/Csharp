@@ -1,0 +1,6 @@
+C:\Users\usre\Desktop\C#_\edx\Module4\Module4\Module4\bin\Debug\Module4.exe.config
+C:\Users\usre\Desktop\C#_\edx\Module4\Module4\Module4\bin\Debug\Module4.exe
+C:\Users\usre\Desktop\C#_\edx\Module4\Module4\Module4\bin\Debug\Module4.pdb
+C:\Users\usre\Desktop\C#_\edx\Module4\Module4\Module4\obj\Debug\Module4.csprojResolveAssemblyReference.cache
+C:\Users\usre\Desktop\C#_\edx\Module4\Module4\Module4\obj\Debug\Module4.exe
+C:\Users\usre\Desktop\C#_\edx\Module4\Module4\Module4\obj\Debug\Module4.pdb

@@ -1,0 +1,6 @@
+C:\Users\usre\Desktop\C#_\edx\Module7\Module7\bin\Debug\Module7.exe.config
+C:\Users\usre\Desktop\C#_\edx\Module7\Module7\obj\Debug\Module7.csprojResolveAssemblyReference.cache
+C:\Users\usre\Desktop\C#_\edx\Module7\Module7\bin\Debug\Module7.exe
+C:\Users\usre\Desktop\C#_\edx\Module7\Module7\bin\Debug\Module7.pdb
+C:\Users\usre\Desktop\C#_\edx\Module7\Module7\obj\Debug\Module7.exe
+C:\Users\usre\Desktop\C#_\edx\Module7\Module7\obj\Debug\Module7.pdb

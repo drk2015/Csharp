@@ -1,0 +1,2 @@
+C:\Users\usre\Desktop\C#_\edx\Module4\Module5_peer\Module5_peer\bin\Debug\Module5_peer.exe.config
+C:\Users\usre\Desktop\C#_\edx\Module4\Module5_peer\Module5_peer\obj\Debug\Module5_peer.csprojResolveAssemblyReference.cache

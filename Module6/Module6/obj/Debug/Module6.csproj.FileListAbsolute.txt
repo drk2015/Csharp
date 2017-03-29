@@ -1,0 +1,6 @@
+C:\Users\usre\Desktop\C#_\edx\Module4\Module6\Module6\bin\Debug\Module6.exe.config
+C:\Users\usre\Desktop\C#_\edx\Module4\Module6\Module6\obj\Debug\Module6.csprojResolveAssemblyReference.cache
+C:\Users\usre\Desktop\C#_\edx\Module4\Module6\Module6\bin\Debug\Module6.exe
+C:\Users\usre\Desktop\C#_\edx\Module4\Module6\Module6\bin\Debug\Module6.pdb
+C:\Users\usre\Desktop\C#_\edx\Module4\Module6\Module6\obj\Debug\Module6.exe
+C:\Users\usre\Desktop\C#_\edx\Module4\Module6\Module6\obj\Debug\Module6.pdb

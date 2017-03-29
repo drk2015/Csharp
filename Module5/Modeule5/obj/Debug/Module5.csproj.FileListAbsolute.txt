@@ -1,0 +1,6 @@
+C:\Users\usre\Desktop\C#_\edx\Module5\Modeule5\obj\Debug\Module5.csprojResolveAssemblyReference.cache
+C:\Users\usre\Desktop\C#_\edx\Module5\Modeule5\bin\Debug\Modeule5.exe.config
+C:\Users\usre\Desktop\C#_\edx\Module5\Modeule5\bin\Debug\Modeule5.exe
+C:\Users\usre\Desktop\C#_\edx\Module5\Modeule5\bin\Debug\Modeule5.pdb
+C:\Users\usre\Desktop\C#_\edx\Module5\Modeule5\obj\Debug\Modeule5.exe
+C:\Users\usre\Desktop\C#_\edx\Module5\Modeule5\obj\Debug\Modeule5.pdb
